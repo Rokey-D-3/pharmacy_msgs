@@ -1,4 +1,4 @@
-geometry_msgs/Point point
-uint16 width
+geometry_msgs/Point[] point
+uint16[] width
 ---
 bool success
