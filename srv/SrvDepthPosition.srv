@@ -1,3 +1,4 @@
-string target
+string[] target
 ---
-float64[] depth_position
+geometry_msgs/Point[] depth_position
+uint16[] width
